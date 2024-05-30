@@ -51,7 +51,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://i-will-add-link-later"><img src="https://img.shields.io/badge/-i%20will%20add%20portfolio%20link%20later-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://nirpendranathmishra1947.vercel.app/"><img src="https://img.shields.io/badge/-Nirpendra%20Nath%20Mishra-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nnm1947/"><img src="https://img.shields.io/badge/-Nirpendra%20Nath%20Mishra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nirpendranathmishra1947@gmail.com"><img src="https://img.shields.io/badge/-Nirpendra%20Nath%20Mishra-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
